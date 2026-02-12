@@ -1,0 +1,7 @@
+{
+  "name": "Kashmiri AI Transcription & Voice",
+  "description": "A powerful Kashmiri language suite for real-time voice conversation and precise audio-to-text transcription using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
